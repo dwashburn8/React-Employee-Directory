@@ -1,0 +1,44 @@
+ [
+        {
+          "id": "1",
+          "name": "Homer Simpson",
+          "image":"https://vignette.wikia.nocookie.net/simpsons/images/b/bd/Homer_Simpson.png/revision/latest/top-crop/width/360/height/360?cb=20140126234206",
+          "age": "36-39",
+          "occupation": "Safety Inspector of Springfield Nuclear Power Plant"
+        },
+        {
+          "id": "2",
+          "name": "Bart Simpson",
+          "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/65/Bart_Simpson.png/revision/latest/top-crop/width/360/height/450?cb=20190409004756",
+          "age": "10",
+          "occupation": "Creating Trouble"
+        },
+        {
+          "id": "3",
+          "name": "Marge Simpson",
+          "image":"https://vignette.wikia.nocookie.net/simpsons/images/4/4d/MargeSimpson.png/revision/latest?cb=20180314071936",
+          "age": "34",
+          "occupation": "Housewife"
+        },
+        {
+            "id": "4",
+            "name": "Lisa Simpson",
+            "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png",
+            "age": "8",
+            "occupation": "The moral center of the family"
+          },
+          {
+            "id": "5",
+            "name": "Mr Burns",
+            "image":"https://upload.wikimedia.org/wikipedia/en/5/56/Mr_Burns.png",
+            "age": "81 or 104",
+            "occupation": "Owner of Springfield Nuclear Power Plant"
+          },
+          {
+            "id": "6",
+            "name": "Ned Flanders",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Ned_Flanders.png/220px-Ned_Flanders.png",
+            "age": "60",
+            "occupation": "Owner of The Leftorium at Springfield Mall"
+          }
+      ]
