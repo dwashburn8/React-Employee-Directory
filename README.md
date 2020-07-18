@@ -1,8 +1,6 @@
-# React-Employee-Directory
-
 ![Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
-![Demo]("employee-directory/public/img/Demo.png")
+![Demo](employee-directory/public/img/Demo.png)
 
 # Simpsons Directory
                           
