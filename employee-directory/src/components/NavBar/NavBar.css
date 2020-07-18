@@ -1,0 +1,22 @@
+#navBar {
+
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/772/718/465/clouds-the-simpsons-figure-background-wallpaper-preview.jpg");
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center }
+
+.headerImage{
+    
+    height: 150px;
+    width: 500;
+}
+  

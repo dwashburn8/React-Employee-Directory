@@ -40,5 +40,69 @@
             "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Ned_Flanders.png/220px-Ned_Flanders.png",
             "age": "60",
             "occupation": "Owner of The Leftorium at Springfield Mall"
+          },
+          {
+            "id": "7",
+            "name": "Apu Nahasapeemapetilon",
+            "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Apu_Nahasapeemapetilon_%28The_Simpsons%29.png",
+            "age": "48",
+            "occupation": "Operator of the Kwik-E-Mart"
+          },
+          {
+            "id": "8",
+            "name": "Krusty The Clown",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Krustytheclown.png/220px-Krustytheclown.png",
+            "age": "Unknown",
+            "occupation": "Children's Entertainer on Channel 6"
+          },
+          {
+            "id": "9",
+            "name": "Moe Szyslak",
+            "image": "https://upload.wikimedia.org/wikipedia/en/8/80/Moe_Szyslak.png",
+            "age": "63",
+            "occupation": "Owner of Moe's Tavern"
+          },
+          {
+            "id": "10",
+            "name": "Barney Gumble",
+            "image": "https://vignette.wikia.nocookie.net/simpsons/images/6/68/Barney_Gumble_-_shading.png/revision/latest?cb=20180313200146",
+            "age": "40",
+            "occupation": "None"
+          },
+          {
+            "id": "11",
+            "name": "Waylon Smithers",
+            "image": "https://vignette.wikia.nocookie.net/simpsons/images/8/83/Waylon_Smithers.png/revision/latest?cb=20100612160358",
+            "age": "52",
+            "occupation": "Mr. Burns' assistant at the power plant"
+          },
+          {
+            "id": "12",
+            "name": "Seymour Skinner",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Seymour_Skinner.png/220px-Seymour_Skinner.png",
+            "age": "58",
+            "occupation": "Principal of Springfield Elementary School"
+          },
+          {
+            "id": "13",
+            "name": "Comic Book Guy",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/The_Simpsons-Jeff_Albertson.png/220px-The_Simpsons-Jeff_Albertson.png",
+            "age": "45",
+            "occupation": "Purveyor of comic collectables and memorabilia"
+          },
+          {
+            "id": "14",
+            "name": "Ralph Wiggum",
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Ralph_Wiggum.png/220px-Ralph_Wiggum.png",
+            "age": "8",
+            "occupation": "None"
+          },
+          {
+            "id": "15",
+            "name": "Hans Moleman",
+            "image": "https://static.simpsonswiki.com/images/e/e7/Hans_Moleman.png",
+            "age": "33",
+            "occupation": "Drives lorries"
           }
+
       ]

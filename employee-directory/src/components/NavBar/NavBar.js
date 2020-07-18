@@ -1,5 +1,8 @@
 import React from "react";
 import Navbar from "react-bootstrap/Navbar"
+// import Row from "react-bootstrap/Row"
+// import Col from "react-bootstrap/Col"
+import "./NavBar.css"
 
 class NavBar extends React.Component {
     // constructor(props) {
@@ -9,16 +12,15 @@ class NavBar extends React.Component {
 
     render() {
         return (
-            <Navbar bg="dark">
-            <Navbar.Brand href="#home">
-              <img
-                src="/img/simpsons logo.png"
-                width="200"
-                height="100"
-                className="d-inline-block align-top"
-                alt="React Bootstrap logo"
+            <Navbar id="navBar" bg="dark"  >
+            
+        <img
+                src="https://fontmeme.com/permalink/200715/525a5cac62bec2e4cf7ceb3b80042fe2.png"
+                
+                className="headerImage"
+                alt="Simpsons logo"
               />
-            </Navbar.Brand>
+            
           </Navbar>
 
         )
