@@ -24,7 +24,6 @@ const Search =(props) => {
                                 </input>
                             </label>
 
-                            {/* <button onClick={this.searchEmployees}>Submit</button> */}
                         </form>
                     </Col>
                     <Col>

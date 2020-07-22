@@ -47,7 +47,7 @@ class SearchContainer extends Component {
             }
         }).map((data) => {
             return (
-                <div className="card">
+                <div key={data.id} className="card">
                 <div className="img-container">
                   <img alt={data.name} src={data.image} />
                 </div>
@@ -70,7 +70,7 @@ class SearchContainer extends Component {
         })
         return (
             <>
-                <Search key={this.state.search} value={this.state.search} handleInputChange ={this.searchEmployees} />
+                <Search key={this.state.id} value={this.state.search} handleInputChange ={this.searchEmployees} />
                 <Wrapper>
                     {list}
                 </Wrapper>
